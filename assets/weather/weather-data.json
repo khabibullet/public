@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Sunny",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/sunny.jpeg"
+    },
+    {
+        "title": "Cloudy",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/cloudy.jpeg"
+    },
+    {
+        "title": "Partly cloudy",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/partly-cloudy.jpeg"
+    },
+    {
+        "title": "Rain",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/rain.jpeg"
+    },
+    {
+        "title": "Pouring rain",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/pouring-rain.jpeg"
+    },
+    {
+        "title": "Thunderstorm",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/thunderstorm.jpeg"
+    },
+    {
+        "title": "Snowfall",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/snowfall.jpeg"
+    },
+    {
+        "title": "Wind",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/wind.jpeg"
+    },
+    {
+        "title": "Hot",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/hot.jpeg"
+    },
+    {
+        "title": "Sunset",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/sunset.jpeg"
+    },
+    {
+        "title": "Starry night",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/starry-night.jpeg"
+    }
+]
