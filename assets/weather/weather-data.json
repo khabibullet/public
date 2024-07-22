@@ -1,23 +1,23 @@
 [
     {
         "title": "Sunny",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/sunny.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/sunny.gif"
     },
     {
         "title": "Cloudy",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/cloudy.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/cloudy.gif"
     },
     {
         "title": "Partly cloudy",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/partly-cloudy.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/partly-cloudy.gif"
     },
     {
         "title": "Rain",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/rain.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/rain.gif"
     },
     {
         "title": "Pouring rain",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/pouring-rain.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/pouring-rain.gif"
     },
     {
         "title": "Thunderstorm",
@@ -25,22 +25,26 @@
     },
     {
         "title": "Snowfall",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/snowfall.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/snow.gif"
     },
     {
         "title": "Windy",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/windy.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/wind.gif"
     },
     {
-        "title": "Drought",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/drought.jpg"
+        "title": "Storm",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/storm.gif"
+    },
+    {
+        "title": "Fog",
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/fog.gif"
     },
     {
         "title": "Sunset",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/sunset.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/sunset.gif"
     },
     {
         "title": "Starry night",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/starry-night.jpg"
+        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/starry-night.gif"
     }
 ]
