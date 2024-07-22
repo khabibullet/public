@@ -32,10 +32,6 @@
         "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/wind.gif"
     },
     {
-        "title": "Storm",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/storm.gif"
-    },
-    {
         "title": "Fog",
         "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/fog.gif"
     },
