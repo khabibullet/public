@@ -28,19 +28,11 @@
         "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/snow.gif"
     },
     {
-        "title": "Windy",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/wind.gif"
-    },
-    {
         "title": "Fog",
         "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/fog.gif"
     },
     {
         "title": "Sunset",
         "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/sunset.gif"
-    },
-    {
-        "title": "Starry night",
-        "imageUrl": "https://raw.githubusercontent.com/khabibullet/public/main/assets/weather/starry-night.gif"
     }
 ]
